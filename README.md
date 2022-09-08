@@ -1,5 +1,5 @@
-#Practice Repository
+# Practice Repository
 
-##Various Programs and Functions
+## Various Programs and Functions
 
-###FROM Quests, Raids, and Hackathons
+### FROM Quests, Raids, and Hackathons
